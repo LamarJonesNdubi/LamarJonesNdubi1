@@ -6,6 +6,8 @@
 
 <h3 align="center">A passionate software developer from Kenya 🇰🇪</h3>
 
+I'm an full-stack developer and free creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the content with artistic touches. 
+
 <br/>
 
 <div align="center">
