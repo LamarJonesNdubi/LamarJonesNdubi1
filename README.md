@@ -15,7 +15,7 @@
 
 💬 Ask me about **Node.js, HTML, CSS.. or anything [here](https://github.com/LamarJonesNdubi/LamarJonesNdubi/issues)**
 
-⚡ Fun fact **I enjoy Video Gamae..any with oor without historical Guns**
+⚡ Fun fact **I enjoy Video Games..any with or without historical Guns**
 
  </div>
  
