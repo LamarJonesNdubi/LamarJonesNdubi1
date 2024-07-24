@@ -1,4 +1,3 @@
-<img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LamarjonesNdubi.LamarJonesNdubi" />
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👊🏾;+I'm+Lamar!;" />
@@ -45,16 +44,6 @@ I'm an full-stack developer and free creator building my version of the digital 
 <br/>
 <hr/>
 
-<div align="center">
-  <h2>🐍 My Contributions 🐍</h2>
-  <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/LamarJonesNdubi/LamarJonesNdubi/output/github-contribution-grid-snake.svg" />
-  
-  <br/><br/><br/>
-</div>
-
-<hr/>
-
 <p align="center">
   <img width="800" height="220" src="https://streak-stats.demolab.com?user=LamarJonesNdubi&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
 </p>
@@ -79,18 +68,3 @@ I'm an full-stack developer and free creator building my version of the digital 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
 </p>
-
-
-
-
-
-
-![Lamar's GitHub stats](https://github-readme-stats.vercel.app/api?username=LamarJonesNdubi&show_icons=true&bg_color=000000&text_color=ffffff&title_color=ffffff&icon_color=ffffff)
-
-<br/>
-
-<div align="center">
-<a href='https://ko-fi.com/lamar77810' target='_blank'><img height='64' style='border:0px;height:64px;' src='https://storage.ko-fi.com/cdn/kofi1.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
-</div>
-
-<br/>
