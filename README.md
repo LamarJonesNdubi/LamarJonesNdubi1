@@ -1,7 +1,7 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=LamarjonesNdubi.LamarJonesNdubi" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👋;+I'm+Lamar!;" />
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello+There!+👊🏾;+I'm+Lamar!;" />
 </h1>
 
 <h3 align="center">A passionate software developer from Kenya 🇰🇪</h3>
@@ -11,7 +11,7 @@
 <div align="center">
  
  
- 🌱 I’m currently learning **Javascript, Python, React**
+👾I’m currently learning **Javascript, Python, React**
 
 💬 Ask me about **Node.js, HTML, CSS.. or anything [here](https://github.com/LamarJonesNdubi/LamarJonesNdubi/issues)**
 
