@@ -67,7 +67,7 @@ Have fun reading around, its nothing big but it will do the trick.
 
 
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=LamarJonesNdubi&style=for-the-badge&color=black" alt=""/>
+  <img src="https://komarev.com/ghpvc/?username=LamarJonesNdubi&style=for-the-badge&color=red" alt=""/>
 </div>
 
 <p align="center">
