@@ -65,11 +65,12 @@ Have fun reading around, its nothing big but it will do the trick.
 </p>
  
 ### Visitor count
-<img src="https://profile-counter.glitch.me/LamarJonesNdubi/count.svg" />
-
 <div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=LamarJonesNdubi&style=for-the-badge&color=red" alt=""/>
+      <img src="https://profile-counter.glitch.me/LamarJonesNdubi/count.svg" />
+
 </div>
+ 
+
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
