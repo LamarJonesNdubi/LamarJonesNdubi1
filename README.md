@@ -9,7 +9,7 @@
 
 <h3 align="center">A passionate software developer from Kenya 🇰🇪</h3>
 
-I'm an full-stack self taught developer and free creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the content with artistic touches. 
+I'm a self taught A.I Engineer and free creator building my version of the digital world one step at a time. All coding projects are built from the ground up, from planning and designing all the way to solving real-life problems with code. From ideation and planning, all the way to finalizing the content with artistic touches. 
 Have fun reading around, its nothing big but it will do the trick.
 
 <br/>
@@ -17,9 +17,9 @@ Have fun reading around, its nothing big but it will do the trick.
 <div align="center">
  
  
-👾I’m currently learning **Javascript, Python, React**
+👾I’m currently learning **Python,C++, React**
 
-💬 Ask me about **Node.js, HTML, CSS.. or anything [here](https://github.com/LamarJonesNdubi/LamarJonesNdubi/issues)**
+💬 Ask me about ** anything [here](https://github.com/LamarJonesNdubi/LamarJonesNdubi/issues)**
 
 ⚡ Fun fact **I enjoy Video Games..any with or without historical Guns**
 
