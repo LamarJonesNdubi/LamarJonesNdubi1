@@ -66,7 +66,7 @@ Have fun reading around, its nothing big but it will do the trick.
 
  
 <div id="header" align="center">
-    <p>### Visitor count</p>
+    <h1><b>VISITOR COUNT</b></h1>
       <img src="https://profile-counter.glitch.me/LamarJonesNdubi/count.svg" />
 </div>
  
