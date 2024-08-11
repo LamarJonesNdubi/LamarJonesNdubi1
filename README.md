@@ -63,11 +63,11 @@ Have fun reading around, its nothing big but it will do the trick.
   <img width="600" height="200" src="https://github-readme-stats.vercel.app/api?username=LamarJonesNdubi&show_icons=true&theme=vision-friendly-dark">
   <img width="400" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=LamarJonesNdubi&size_weight=0.0005&count_weight=0.3&layout=compact&theme=vision-friendly-dark">
 </p>
- 
-### Visitor count
-<div id="header" align="center">
-      <img src="https://profile-counter.glitch.me/LamarJonesNdubi/count.svg" />
 
+ 
+<div id="header" align="center">
+    <p>### Visitor count</p>
+      <img src="https://profile-counter.glitch.me/LamarJonesNdubi/count.svg" />
 </div>
  
 
