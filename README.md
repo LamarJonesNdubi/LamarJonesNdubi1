@@ -71,6 +71,7 @@ Have fun reading around, its nothing big but it will do the trick.
 </div>
  
 
+![Snake animation](https://raw.githubusercontent.com/LamarJonesNdubi/LamarJonesNdubi/output/github-contribution-grid-snake.svg)
 
 <p align="center">
  <img width="1000" src="assets/github-snake.svg" alt="snake"/>
