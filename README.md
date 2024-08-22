@@ -1,4 +1,4 @@
-<img src="https://www.reddit.com/r/gifs/comments/zxcllg/futuristic_city_made_in_pixel_art/#lightbox" alt="MasterHead" height="400" width="100%">
+<img src="auto.gif" alt="MasterHead" height="400" width="100%">
 
 
 
