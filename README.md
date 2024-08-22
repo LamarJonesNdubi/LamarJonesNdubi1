@@ -1,4 +1,4 @@
-<img src="https://github-production-user-asset-6210df.s3.amazonaws.com/74038190/242390524-0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b.gif" alt="MasterHead" height="400" width="100%">
+<img src="https://www.reddit.com/r/gifs/comments/zxcllg/futuristic_city_made_in_pixel_art/#lightbox" alt="MasterHead" height="400" width="100%">
 
 
 
