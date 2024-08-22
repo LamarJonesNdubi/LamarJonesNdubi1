@@ -1,4 +1,4 @@
-<img src="auto.gif" alt="MasterHead" height="400" width="100%">
+<img src="auto1.gif" alt="MasterHead" height="400" width="100%">
 
 
 
